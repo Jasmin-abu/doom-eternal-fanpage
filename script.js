@@ -1,5 +1,4 @@
-// JavaScript beginner practice for this website
-// 1. Variables and arrays
+
 const demonNames = ["Imp", "Pinky", "Cacodemon", "Baron of Hell"];
 let score = 0;
 
@@ -42,6 +41,6 @@ scoreButton.addEventListener("click", () => {
   updateScore();
 });
 
-// 5. Run once when page loads
+
 showDemonList();
 updateScore();
